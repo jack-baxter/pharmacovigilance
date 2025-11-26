@@ -1,0 +1,6 @@
+fastapi==0.122.0
+uvicorn[standard]
+pandas
+plotly==6.2.0
+requests
+openpyxl
