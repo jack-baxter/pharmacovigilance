@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+plotly
+requests
+prophet
+pytorch-forecasting[lightning]
+torch
